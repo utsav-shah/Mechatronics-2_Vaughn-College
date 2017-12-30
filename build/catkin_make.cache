@@ -1,0 +1,2 @@
+project
+-DCATKIN_DEVEL_PREFIX=/home/utsavshah/finalProject/devel -DCMAKE_INSTALL_PREFIX=/home/utsavshah/finalProject/install -G Unix Makefiles
